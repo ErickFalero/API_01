@@ -1,0 +1,85 @@
+# Servidores SAP (SAP, UNIX y NT) 
+10.5.104.4   aliisisrv1
+10.72.1.10   alisaparc1
+10.72.1.12   alicotoas1 alicotoas1.alicorp.com.pe
+10.72.1.121  sapnwp3
+10.72.1.121  sapnwp3.alicorp.com.pe
+10.72.2.20   ob2cl
+10.72.2.40   apoprd01 apoprd01.alicorp.com.pe
+10.72.2.41   apoprd02 apoprd02.alicorp.com.pe
+10.72.2.47   bwprd02 bwprd02.alicorp.com.pe
+10.72.2.50   bwprd01 bwprd01.alicorp.com.pe
+10.72.2.60   sapdbsc alisapp1 asedb
+10.72.2.61   sapapp1
+10.72.2.62   sapapp2
+10.72.2.63   sapapp3
+10.72.2.64   sapdbs
+10.72.2.75   sapqas01
+10.72.2.92   wmappcl
+10.72.2.45     apodev01 apodev01.alicorp.com.pe
+10.72.2.70     sapdev01
+10.72.2.80     bwdev01 bwdev01.alicorp.com.pe
+10.72.2.90     wmdbs1
+10.72.2.91     wmdbs2
+10.72.2.93     wmapp2
+10.72.2.94     wmapp1
+10.72.1.117    sapnwp2
+10.72.1.117    sapnwp2.alicorp.com.pe  
+10.72.1.119    sapnwp5
+10.72.1.119    sapnwp5 sapnwp5.alicorp.com.pe
+10.72.1.114    alicotwms1
+10.72.2.68     sapnwp9
+10.72.2.68     sapnwp9.alicorp.com.pe
+10.72.2.40	apoprd01
+10.72.1.104	alisapsm1
+10.72.1.121	sapnwp3
+10.72.1.55	sapcrp01
+10.72.1.57	sapcrp02
+10.72.2.66	sapnwp16
+10.72.2.32	sapdev02.alicorp.com.pe
+10.72.1.118     sapnwp4
+10.72.2.69	sapnwp10
+10.72.2.130	sapnwp11
+10.72.2.176	sapgrparg.alicorp.com.pe 
+10.72.2.205
+
+# Lotus Notes Server - alicorp  
+10.5.104.1       aliargsrv1 aliargsrv1.alicorp.com.pe
+10.5.104.3     aliarg01    aliarg01.alicorp.com.pe
+10.5.104.4     aliargapl1
+10.72.1.15   aliisi01    aliisi01.alicorp.com.pe
+10.72.1.13   aliisi02    aliisi02.alicorp.com.pe
+10.72.0.250   mail.alicorp.com.pe
+10.72.1.1     alicotsrv1 alicotsrv1.alicorp.com.pe
+10.72.1.9    aliisisis1  aliisisis1.alicorp.com.pe
+10.72.1.13   aliisilns2
+10.72.1.35   aliisilns1
+10.200.104.2   aliarq01    aliarq01.alicorp.com.pe
+10.232.104.2   alipnv01    alipnv01.alicorp.com.pe
+10.240.104.2   alipcr01    alipcr01.alicorp.com.pe
+
+# Otros Servers
+10.72.5.182	conecta.grupoalicorp.com
+10.72.5.163	aliisiweb6.alicorp.com.pe
+10.72.1.119 	sapnwp5.alicorp.com.pe
+10.72.1.103	aliibmshp2
+10.41.104.20
+201.175.27.219	alicorp.onbaseonline.com
+157.133.170.72	a1y818vlk.accounts.ondemand.com
+10.72.5.145	beneficios.gruporomero.com.pe
+
+# Otros Servers (WEB, CITRIX, Portales) - alicorp
+10.72.1.9		aliisisis1      aliisisis1.alicorp.com.pe
+10.72.1.16	alictxsrv1
+10.72.1.17	alictxsrv2
+10.72.1.105	aliisisql2
+10.72.1.111	alictxsrv3
+10.72.1.115	alictxsrv4
+200.31.100.29	scada		scada.calidda.com.pe
+
+# Otros Servers (SAP) - alicorp
+
+18.209.54.153	vhcalcr4hdb.dummy.nodomain vhcalcr4hdb vhcalcr4cs.dummy.nodomain vhcalcr4cs vhcalcr4ci.dummy.nodomain vhcalcr4ci
+107.20.145.76	vhcalbw7hdb.dummy.nodomain vhcalbw7hdb vhcalbw7cs.dummy.nodomain vhcalbw7cs vhcalbw7ci.dummy.nodomain vhcalbw7ci
+34.203.114.197	vhcalh19db vhcalh19db.dummy.nodomain vhcalm19ci vhcalm19ci.dummy.nodomain vhcalm19cs vhcalm19cs.dummy.nodomain
+34.225.94.152	vhcaladsdb vhcaladsdb.dummy.nodomain vhcaladscs vhcaladscs.dummy.nodomain vhcaladsci vhcaladsci.dummy.nodomain
